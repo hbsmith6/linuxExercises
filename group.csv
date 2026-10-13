@@ -2,5 +2,9 @@ NetID,LastName,FirstName
 hbsmith6,Smith,Hannah
 erstark,Eric,Stark
 jwang2924,Junshang,Wang
+<<<<<<< HEAD
 qliu445,Qinquan,Liu
+=======
+qliu445,Qingquan,Liu
+>>>>>>> c26cd76d9a8b721aaacaad70b46db4a51e26644b
 
